@@ -15,6 +15,7 @@ Training log loss:0.1356
 Test log loss:0.1111
 Training brier score:0.0201
 Test brier score:0.0127
+Graph done using matplotlib.pyplot and learning_curve
 
 
 IMDB- SVM. In this program, I have used SVM to predict the outcome of a movie review based on a dataset containing the reviews and the sentiment as positive or negative
@@ -34,5 +35,6 @@ Train Log Loss:0.1556
 Test Log Loss:0.3047
 Train Brier Score:0.0314
 Test Brier Score:0.0927
+Graph done using matplotlib.pyplot and learning_curve
 
 
